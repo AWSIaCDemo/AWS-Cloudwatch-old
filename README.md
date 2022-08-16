@@ -2,9 +2,6 @@
 
 Terraform module which creates Cloudwatch resources on AWS.
 
-[![Lint Status](https://github.com/DNXLabs/terraform-aws-cloudwatch/workflows/Lint/badge.svg)](https://github.com/DNXLabs/terraform-aws-cloudwatch/actions)
-[![LICENSE](https://img.shields.io/github/license/DNXLabs/terraform-aws-cloudwatch)](https://github.com/DNXLabs/terraform-aws-cloudwatch/blob/master/LICENSE)
-
 <!--- BEGIN_TF_DOCS --->
 
 ## Requirements
@@ -57,8 +54,5 @@ No output.
 
 ## Authors
 
-Module managed by [DNX Solutions](https://github.com/DNXLabs).
-
 ## License
 
-Apache 2 Licensed. See [LICENSE](https://github.com/DNXLabs/terraform-aws-cloudwatch-template/blob/master/LICENSE) for full details.
